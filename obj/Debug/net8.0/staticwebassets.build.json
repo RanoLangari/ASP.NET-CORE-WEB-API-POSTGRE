@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mQLaV+jV1WzrTFLUdfQKaddkICj6DoxdX1Agjw52uNY=",
+  "Source": "CRUD-ASP.POSTGRESQL",
+  "BasePath": "_content/CRUD-ASP.POSTGRESQL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,6 @@
+@CRUD_ASP.POSTGRESQL_HostAddress = http://localhost:5177
+
+GET {{CRUD_ASP.POSTGRESQL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
